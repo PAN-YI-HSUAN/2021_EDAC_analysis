@@ -1,0 +1,12 @@
+cf_a5_83_21_83_21_a5_21
+31_5a_7c_de_7c_de_5a_de
+00_00_00_00_00_00_00_80
+01_00_00_00_00_00_00_00
+81_ff_ff_ff_ff_ff_ff_ff
+80_ff_ff_ff_ff_ff_ff_ff
+ff_ff_ff_ff_ff_ff_ff_ff
+3f_00_00_00_00_00_00_00
+f0_f0_f0_f0_f0_f0_f0_f0
+0f_0f_0f_0f_0f_0f_0f_0f
+fd_ff_ff_ff_ff_ff_ff_ff
+fe_ff_ff_ff_ff_ff_ff_ff
