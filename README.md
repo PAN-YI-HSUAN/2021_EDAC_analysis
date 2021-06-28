@@ -61,7 +61,7 @@ report_resources
 ```
 6. Collect then information and design
 7. Gate-level simulation
-### Design flow
+### Design flow (See 6/16_meeting.pptx in doc)
 1. Load data.
 2. Occur load-use hazard : MEM forwarding.
 3. Occur data hazard : WB forwarding.
