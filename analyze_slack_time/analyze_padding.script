@@ -1,0 +1,1 @@
+cat max_delay.rpt | awk '{print $2 ~ "(DFCSNQD1BWP30P140HVT)" , $6} ' > analyze_padding_data.tcl
